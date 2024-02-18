@@ -1,0 +1,6 @@
+{
+
+    "name": "testing npx (package runner)",
+    "version": "1.0.0",
+    "bin": "./index.js"
+}
